@@ -11,7 +11,6 @@ import colors from '../../utils/colors'
 const AddDirScreen = (): JSX.Element => {
   const [location, setLocation] = useState<any>(null)
   const [loading, setLoading] = useState<boolean>(true)
-  console.log('🚀 ~ file: index.tsx:11 ~ AddDirScreen ~ location:', location)
 
   useEffect(() => {
     void (async () => {
