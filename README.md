@@ -21,7 +21,3 @@
 **Para correr lint**
 
     yarn lint
-
-![android](https://drive.google.com/uc?export=view&id=1D3YnFAszTMO8Z3X4WxUjgyASf2hsG1HJ&sz=w100)
-
-![ios](https://drive.google.com/uc?export=view&id=1Z5LRtWM1gpIOVFuYteTmrB55365xi4KI&sz=w100) 
